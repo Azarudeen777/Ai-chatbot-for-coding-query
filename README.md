@@ -238,13 +238,6 @@ cryptography
 
 <hr>
 
-<h2>Known Issues</h2>
-
-<ul>
-  <li>Replace <code>load_env()</code> with <code>load_dotenv()</code> in <code>database.py</code></li>
-  <li>Remove temporary file <code>tempCodeRunnerFile.py</code></li>
-  <li>Add better exception handling for database operations</li>
-</ul>
 
 <hr>
 
