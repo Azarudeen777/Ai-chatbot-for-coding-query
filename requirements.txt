@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+sqlalchemy
+pymysql
+bcrypt
+pandas
+cryptography
+dotenv
